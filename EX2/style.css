@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(216, 216, 156);
+    background-size: contain;
+}
+.title{
+    text-align: center;
+    font-size: 50px;
+    color: darkkhaki
+}
+.lennon{
+    text-align: center;
+}
+.biografia{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.realização{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 450px;
+    margin-right: 450px;
+}
